@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: abe9d75c4a6e10f498d1ab1ede59a72f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle001
+    100002: water
+    100004: YATCH
+    100006: //RootNode
+    400000: Circle001
+    400002: water
+    400004: YATCH
+    400006: //RootNode
+    2100000: Carpaint Red 2
+    2100002: arch48_004_plastic_02
+    2100004: 'Material #3258'
+    2100006: Wood_Antika_makassar
+    2100008: timber floor
+    2100010: arch48_004_glass_01
+    2100012: anodised aluminium
+    2100014: Archmodels_45_039_1
+    2100016: 567
+    2100018: "Material #2917\u0443"
+    2100020: Chrome Brushed3
+    2100022: Chrome Brushed
+    2100024: arch48_004_plastic_03
+    2100026: Arch_Glass
+    2100028: arch48_001_metal_01
+    2100030: arch48_004_plastic_02ee
+    2100032: No Name
+    2100034: 01 - Default
+    2300000: Circle001
+    2300002: water
+    2300004: YATCH
+    3300000: Circle001
+    3300002: water
+    3300004: YATCH
+    4300000: YATCH
+    4300002: Circle001
+    4300004: water
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 40409387c78458548bb967efbf49d59d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 567
+    second: {fileID: 2100000, guid: b5bc5547f46a63e49aee0580d5a390c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arch_Glass
+    second: {fileID: 2100000, guid: efcc4fd216a1010478fdebef2bb14032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels_45_039_1
+    second: {fileID: 2100000, guid: 2d3c36eb3ce6bb24490200951810f66d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpaint Red 2
+    second: {fileID: 2100000, guid: 16bc938e41e3a904c820b7d3b3e5ac40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Brushed
+    second: {fileID: 2100000, guid: d02d5298e6d00984e8be63683149b467, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Brushed3
+    second: {fileID: 2100000, guid: f99fcf1e3b2ec54459a69607fb4d75d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Material #2917\u0443"
+    second: {fileID: 2100000, guid: 834778486adf4834ca8bf5ca4bbe3c22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3258'
+    second: {fileID: 2100000, guid: 398b6f225d2192b40bd9e256deff6023, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d2735fe0dcc78dc4fa6ea20abdaab12c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Antika_makassar
+    second: {fileID: 2100000, guid: ae85a1144cc1afa4bbf94ce7d63b2096, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: anodised aluminium
+    second: {fileID: 2100000, guid: 7adc0035001ccbb4188b381e6df4912d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arch48_001_metal_01
+    second: {fileID: 2100000, guid: 301d5ebf017e8da41bb03f0ca0f0a2b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arch48_004_glass_01
+    second: {fileID: 2100000, guid: a1d7b8ee958ed814699adfeebd4d21ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arch48_004_plastic_02
+    second: {fileID: 2100000, guid: d5cad654ddffc6a45a7287fa3421c6d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arch48_004_plastic_02ee
+    second: {fileID: 2100000, guid: 9a09f48a0ba794946b32b9e5feb40c63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arch48_004_plastic_03
+    second: {fileID: 2100000, guid: 8627cddb4b51e8943b87624e41852b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: timber floor
+    second: {fileID: 2100000, guid: 859db99f164a3644eace3a2855b61b1f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

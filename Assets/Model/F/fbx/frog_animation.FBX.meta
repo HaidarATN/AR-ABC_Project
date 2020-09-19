@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 13de6d471a5b6aa4793cd55b5fe69d59
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CATRigHub001
+    100002: CATRigHub002
+    100004: CATRigHub003
+    100006: "CATRigHub003\u9AA8\u9ABC001"
+    100008: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100010: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100012: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100014: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100016: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100018: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100020: "CATRigL\u817F1"
+    100022: "CATRigL\u817F1 1"
+    100024: "CATRigL\u817F2"
+    100026: "CATRigL\u817F2 1"
+    100028: "CATRigL\u817F\u5E73\u53F0"
+    100030: "CATRigL\u817F\u5E73\u53F0 1"
+    100032: "CATRigL\u817F\u8E1D\u90E8"
+    100034: "CATRigL\u817F\u8E1D\u90E8 1"
+    100036: "CATRigR\u817F1"
+    100038: "CATRigR\u817F1 1"
+    100040: "CATRigR\u817F2"
+    100042: "CATRigR\u817F2 1"
+    100044: "CATRigR\u817F\u5E73\u53F0"
+    100046: "CATRigR\u817F\u5E73\u53F0 1"
+    100048: "CATRigR\u817F\u8E1D\u90E8"
+    100050: "CATRigR\u817F\u8E1D\u90E8 1"
+    100052: CATRigSpine1
+    100054: CATRigSpine1 1
+    100056: CATRigSpine2
+    100058: CATRigSpine2 1
+    100060: CATRigSpine3
+    100062: CATRigSpine3 1
+    100064: CATRigSpine4
+    100066: CATRigSpine4 1
+    100068: CATRigSpine5
+    100070: CATRigSpine5 1
+    100072: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001"
+    100074: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001 1"
+    100076: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100078: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001\u9AA8\u9ABC001 1"
+    100080: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100082: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001 1"
+    100084: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002"
+    100086: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002 1"
+    100088: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002 2"
+    100090: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002 3"
+    100092: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC001"
+    100094: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC001 1"
+    100096: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100098: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC001\u9AA8\u9ABC001 1"
+    100100: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC002"
+    100102: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC002 1"
+    100104: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC002\u9AA8\u9ABC001"
+    100106: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC002\u9AA8\u9ABC001 1"
+    100108: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003"
+    100110: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003 1"
+    100112: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003 2"
+    100114: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003 3"
+    100116: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC001"
+    100118: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC001 1"
+    100120: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100122: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC001\u9AA8\u9ABC001 1"
+    100124: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC002"
+    100126: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC002 1"
+    100128: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC002\u9AA8\u9ABC001"
+    100130: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC002\u9AA8\u9ABC001 1"
+    100132: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004"
+    100134: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004 1"
+    100136: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004 2"
+    100138: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004 3"
+    100140: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC001"
+    100142: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC001 1"
+    100144: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC002"
+    100146: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC002 1"
+    100148: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC002\u9AA8\u9ABC001"
+    100150: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC002\u9AA8\u9ABC001 1"
+    100152: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005"
+    100154: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005 1"
+    100156: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005\u9AA8\u9ABC001"
+    100158: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005\u9AA8\u9ABC001 1"
+    100160: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100162: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005\u9AA8\u9ABC001\u9AA8\u9ABC001 1"
+    100164: Character001
+    100166: eye_L
+    100168: eye_L001
+    100170: eye_L002
+    100172: eye_R
+    100174: eye_R001
+    100176: eye_R002
+    100178: //RootNode
+    100180: group
+    100182: group4
+    100184: pCube1
+    100186: pPlane2
+    100188: pSphere7
+    100190: ti_G
+    100192: ti_G001
+    100194: ti_G002
+    100196: ti_G003
+    100198: "\xE9______\u86D9"
+    100200: "\u820C\u5934"
+    100202: "\u9752\u86D9"
+    400000: CATRigHub001
+    400002: CATRigHub002
+    400004: CATRigHub003
+    400006: "CATRigHub003\u9AA8\u9ABC001"
+    400008: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400010: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400012: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400014: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400016: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400018: "CATRigHub003\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400020: "CATRigL\u817F1"
+    400022: "CATRigL\u817F1 1"
+    400024: "CATRigL\u817F2"
+    400026: "CATRigL\u817F2 1"
+    400028: "CATRigL\u817F\u5E73\u53F0"
+    400030: "CATRigL\u817F\u5E73\u53F0 1"
+    400032: "CATRigL\u817F\u8E1D\u90E8"
+    400034: "CATRigL\u817F\u8E1D\u90E8 1"
+    400036: "CATRigR\u817F1"
+    400038: "CATRigR\u817F1 1"
+    400040: "CATRigR\u817F2"
+    400042: "CATRigR\u817F2 1"
+    400044: "CATRigR\u817F\u5E73\u53F0"
+    400046: "CATRigR\u817F\u5E73\u53F0 1"
+    400048: "CATRigR\u817F\u8E1D\u90E8"
+    400050: "CATRigR\u817F\u8E1D\u90E8 1"
+    400052: CATRigSpine1
+    400054: CATRigSpine1 1
+    400056: CATRigSpine2
+    400058: CATRigSpine2 1
+    400060: CATRigSpine3
+    400062: CATRigSpine3 1
+    400064: CATRigSpine4
+    400066: CATRigSpine4 1
+    400068: CATRigSpine5
+    400070: CATRigSpine5 1
+    400072: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001"
+    400074: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001 1"
+    400076: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400078: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001\u9AA8\u9ABC001 1"
+    400080: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400082: "CATRig\u8E1D\u90E8\u9AA8\u9ABC001\u9AA8\u9ABC001\u9AA8\u9ABC001 1"
+    400084: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002"
+    400086: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002 1"
+    400088: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002 2"
+    400090: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002 3"
+    400092: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC001"
+    400094: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC001 1"
+    400096: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400098: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC001\u9AA8\u9ABC001 1"
+    400100: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC002"
+    400102: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC002 1"
+    400104: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC002\u9AA8\u9ABC001"
+    400106: "CATRig\u8E1D\u90E8\u9AA8\u9ABC002\u9AA8\u9ABC002\u9AA8\u9ABC001 1"
+    400108: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003"
+    400110: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003 1"
+    400112: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003 2"
+    400114: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003 3"
+    400116: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC001"
+    400118: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC001 1"
+    400120: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400122: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC001\u9AA8\u9ABC001 1"
+    400124: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC002"
+    400126: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC002 1"
+    400128: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC002\u9AA8\u9ABC001"
+    400130: "CATRig\u8E1D\u90E8\u9AA8\u9ABC003\u9AA8\u9ABC002\u9AA8\u9ABC001 1"
+    400132: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004"
+    400134: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004 1"
+    400136: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004 2"
+    400138: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004 3"
+    400140: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC001"
+    400142: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC001 1"
+    400144: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC002"
+    400146: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC002 1"
+    400148: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC002\u9AA8\u9ABC001"
+    400150: "CATRig\u8E1D\u90E8\u9AA8\u9ABC004\u9AA8\u9ABC002\u9AA8\u9ABC001 1"
+    400152: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005"
+    400154: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005 1"
+    400156: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005\u9AA8\u9ABC001"
+    400158: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005\u9AA8\u9ABC001 1"
+    400160: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400162: "CATRig\u8E1D\u90E8\u9AA8\u9ABC005\u9AA8\u9ABC001\u9AA8\u9ABC001 1"
+    400164: Character001
+    400166: eye_L
+    400168: eye_L001
+    400170: eye_L002
+    400172: eye_R
+    400174: eye_R001
+    400176: eye_R002
+    400178: //RootNode
+    400180: group
+    400182: group4
+    400184: pCube1
+    400186: pPlane2
+    400188: pSphere7
+    400190: ti_G
+    400192: ti_G001
+    400194: ti_G002
+    400196: ti_G003
+    400198: "\xE9______\u86D9"
+    400200: "\u820C\u5934"
+    400202: "\u9752\u86D9"
+    2100000: blinn1SG
+    2100002: 'Material #2'
+    2100004: No Name
+    2100006: lambert6
+    2100008: 'Material #109'
+    2100010: lambert10
+    2300000: eye_L001
+    2300002: eye_L002
+    2300004: eye_R001
+    2300006: eye_R002
+    2300008: pCube1
+    2300010: pPlane2
+    2300012: pSphere7
+    2300014: ti_G001
+    2300016: ti_G002
+    2300018: ti_G003
+    3300000: eye_L001
+    3300002: eye_L002
+    3300004: eye_R001
+    3300006: eye_R002
+    3300008: pCube1
+    3300010: pPlane2
+    3300012: pSphere7
+    3300014: ti_G001
+    3300016: ti_G002
+    3300018: ti_G003
+    4300000: eye_L
+    4300002: eye_R
+    4300004: ti_G
+    4300006: "\u820C\u5934"
+    4300008: ti_G001
+    4300010: eye_L001
+    4300012: eye_R001
+    4300014: ti_G002
+    4300016: eye_R002
+    4300018: eye_L002
+    4300020: ti_G003
+    4300022: pCube1
+    4300024: pPlane2
+    4300026: pSphere7
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: eye_L
+    13700002: eye_R
+    13700004: ti_G
+    13700006: "\u820C\u5934"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #109'
+    second: {fileID: 2100000, guid: 66ffe469772c16440bd743c965f01ca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 51b2cd7af4b3b8c419be9751d949b72a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 278f1299b3d1f3c429c5394fac13ee8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1SG
+    second: {fileID: 2100000, guid: ce124c72ea1ba784ea4269c5431642e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: d6960d968668bec48a9c2c8309ef0fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 30c4c6a4c3b4070448db14238827365c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

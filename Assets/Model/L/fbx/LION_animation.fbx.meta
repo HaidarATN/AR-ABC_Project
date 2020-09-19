@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 5f93d8d1bca1c24429f2ef666c72b0af
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: ffd1Base
+    100004: ffd1Lattice
+    100006: group
+    100008: joint1
+    100010: joint10
+    100012: joint100
+    100014: joint101
+    100016: joint102
+    100018: joint103
+    100020: joint104
+    100022: joint105
+    100024: joint106
+    100026: joint11
+    100028: joint12
+    100030: joint13
+    100032: joint14
+    100034: joint15
+    100036: joint17
+    100038: joint18
+    100040: joint19
+    100042: joint2
+    100044: joint20
+    100046: joint21
+    100048: joint22
+    100050: joint23
+    100052: joint24
+    100054: joint25
+    100056: joint26
+    100058: joint27
+    100060: joint28
+    100062: joint29
+    100064: joint3
+    100066: joint31
+    100068: joint33
+    100070: joint34
+    100072: joint35
+    100074: joint36
+    100076: joint37
+    100078: joint38
+    100080: joint39
+    100082: joint4
+    100084: joint40
+    100086: joint41
+    100088: joint42
+    100090: joint43
+    100092: joint44
+    100094: joint45
+    100096: joint46
+    100098: joint49
+    100100: joint5
+    100102: joint52
+    100104: joint53
+    100106: joint53 1
+    100108: joint53 2
+    100110: joint53 3
+    100112: joint54
+    100114: joint55
+    100116: joint56
+    100118: joint58
+    100120: joint59
+    100122: joint6
+    100124: joint60
+    100126: joint61
+    100128: joint62
+    100130: joint63
+    100132: joint64
+    100134: joint65
+    100136: joint66
+    100138: joint67
+    100140: joint67 1
+    100142: joint67 2
+    100144: joint67 3
+    100146: joint68
+    100148: joint69
+    100150: joint7
+    100152: joint70
+    100154: joint79
+    100156: joint8
+    100158: joint80
+    100160: joint80 1
+    100162: joint80 2
+    100164: joint81
+    100166: joint81 1
+    100168: joint82
+    100170: joint83
+    100172: joint84
+    100174: joint85
+    100176: joint86
+    100178: joint87
+    100180: joint88
+    100182: joint89
+    100184: joint9
+    100186: joint90
+    100188: joint91
+    100190: joint92
+    100192: joint93
+    100194: joint95
+    100196: joint96
+    100198: joint97
+    100200: joint98
+    100202: joint99
+    100204: joint_root_group
+    100206: lion
+    100208: //RootNode
+    100210: model_group
+    100212: null1
+    400000: body
+    400002: ffd1Base
+    400004: ffd1Lattice
+    400006: group
+    400008: joint1
+    400010: joint10
+    400012: joint100
+    400014: joint101
+    400016: joint102
+    400018: joint103
+    400020: joint104
+    400022: joint105
+    400024: joint106
+    400026: joint11
+    400028: joint12
+    400030: joint13
+    400032: joint14
+    400034: joint15
+    400036: joint17
+    400038: joint18
+    400040: joint19
+    400042: joint2
+    400044: joint20
+    400046: joint21
+    400048: joint22
+    400050: joint23
+    400052: joint24
+    400054: joint25
+    400056: joint26
+    400058: joint27
+    400060: joint28
+    400062: joint29
+    400064: joint3
+    400066: joint31
+    400068: joint33
+    400070: joint34
+    400072: joint35
+    400074: joint36
+    400076: joint37
+    400078: joint38
+    400080: joint39
+    400082: joint4
+    400084: joint40
+    400086: joint41
+    400088: joint42
+    400090: joint43
+    400092: joint44
+    400094: joint45
+    400096: joint46
+    400098: joint49
+    400100: joint5
+    400102: joint52
+    400104: joint53
+    400106: joint53 1
+    400108: joint53 2
+    400110: joint53 3
+    400112: joint54
+    400114: joint55
+    400116: joint56
+    400118: joint58
+    400120: joint59
+    400122: joint6
+    400124: joint60
+    400126: joint61
+    400128: joint62
+    400130: joint63
+    400132: joint64
+    400134: joint65
+    400136: joint66
+    400138: joint67
+    400140: joint67 1
+    400142: joint67 2
+    400144: joint67 3
+    400146: joint68
+    400148: joint69
+    400150: joint7
+    400152: joint70
+    400154: joint79
+    400156: joint8
+    400158: joint80
+    400160: joint80 1
+    400162: joint80 2
+    400164: joint81
+    400166: joint81 1
+    400168: joint82
+    400170: joint83
+    400172: joint84
+    400174: joint85
+    400176: joint86
+    400178: joint87
+    400180: joint88
+    400182: joint89
+    400184: joint9
+    400186: joint90
+    400188: joint91
+    400190: joint92
+    400192: joint93
+    400194: joint95
+    400196: joint96
+    400198: joint97
+    400200: joint98
+    400202: joint99
+    400204: joint_root_group
+    400206: lion
+    400208: //RootNode
+    400210: model_group
+    400212: null1
+    2100000: lambert2
+    2100002: Lion_Default1
+    2300000: lion
+    3300000: lion
+    4300000: body
+    4300002: lion
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lion_Default1
+    second: {fileID: 2100000, guid: a661eaf2aecfd234f99ebe482849c44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 7b7acbe9526996a43bdd031e7180bd03, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Avatar_Default_01
+    second: {fileID: 2800000, guid: 6e8308363a873ef40b47a661ce226636, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Avatar_Default_02
+    second: {fileID: 2800000, guid: 5874b85e739d43b4e85c0d09ced661cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Avatar_Default_03
+    second: {fileID: 2800000, guid: 8271140643b70d141979843bf74df122, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

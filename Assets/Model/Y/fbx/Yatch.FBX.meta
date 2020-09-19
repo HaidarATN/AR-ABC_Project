@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 1d9d8af334fe27049815563de8442177
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: archmodels85_028_002
+    100002: archmodels85_028_003
+    100004: archmodels85_028_004
+    100006: archmodels85_028_005
+    100008: archmodels85_028_006
+    100010: archmodels85_028_007
+    100012: archmodels85_028_008
+    100014: archmodels85_028_009
+    100016: archmodels85_028_01
+    100018: archmodels85_028_010
+    100020: chair
+    100022: Circle001
+    100024: Cone001
+    100026: ground
+    100028: house
+    100030: water
+    100032: YATCH
+    100034: //RootNode
+    400000: archmodels85_028_002
+    400002: archmodels85_028_003
+    400004: archmodels85_028_004
+    400006: archmodels85_028_005
+    400008: archmodels85_028_006
+    400010: archmodels85_028_007
+    400012: archmodels85_028_008
+    400014: archmodels85_028_009
+    400016: archmodels85_028_01
+    400018: archmodels85_028_010
+    400020: chair
+    400022: Circle001
+    400024: Cone001
+    400026: ground
+    400028: house
+    400030: water
+    400032: YATCH
+    400034: //RootNode
+    2100000: Carpaint Red 2
+    2100002: arch48_004_plastic_02
+    2100004: 'Material #3258'
+    2100006: Wood_Antika_makassar
+    2100008: timber floor
+    2100010: arch48_004_glass_01
+    2100012: anodised aluminium
+    2100014: Archmodels_45_039_1
+    2100016: 567
+    2100018: "Material #2917\u0443"
+    2100020: Chrome Brushed3
+    2100022: Chrome Brushed
+    2100024: arch48_004_plastic_03
+    2100026: Arch_Glass
+    2100028: arch48_001_metal_01
+    2100030: arch48_004_plastic_02ee
+    2100032: No Name
+    2100034: 01 - Default
+    2100036: 03 - Default
+    2100038: 04 - Default
+    2100040: 06 - Default
+    2100042: 07 - Default
+    2100044: 10 - Default
+    2100046: 08 - Default
+    2100048: 'Material #3989'
+    2300000: archmodels85_028_002
+    2300002: archmodels85_028_003
+    2300004: archmodels85_028_004
+    2300006: archmodels85_028_005
+    2300008: archmodels85_028_006
+    2300010: archmodels85_028_007
+    2300012: archmodels85_028_008
+    2300014: archmodels85_028_009
+    2300016: archmodels85_028_01
+    2300018: archmodels85_028_010
+    2300020: chair
+    2300022: Circle001
+    2300024: Cone001
+    2300026: ground
+    2300028: house
+    2300030: water
+    2300032: YATCH
+    3300000: archmodels85_028_002
+    3300002: archmodels85_028_003
+    3300004: archmodels85_028_004
+    3300006: archmodels85_028_005
+    3300008: archmodels85_028_006
+    3300010: archmodels85_028_007
+    3300012: archmodels85_028_008
+    3300014: archmodels85_028_009
+    3300016: archmodels85_028_01
+    3300018: archmodels85_028_010
+    3300020: chair
+    3300022: Circle001
+    3300024: Cone001
+    3300026: ground
+    3300028: house
+    3300030: water
+    3300032: YATCH
+    4300000: YATCH
+    4300002: ground
+    4300004: Circle001
+    4300006: water
+    4300008: chair
+    4300010: archmodels85_028_01
+    4300012: archmodels85_028_002
+    4300014: archmodels85_028_003
+    4300016: archmodels85_028_004
+    4300018: archmodels85_028_005
+    4300020: house
+    4300022: Cone001
+    4300024: archmodels85_028_006
+    4300026: archmodels85_028_007
+    4300028: archmodels85_028_008
+    4300030: archmodels85_028_009
+    4300032: archmodels85_028_010
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: ed8c78755056cb8419c06d59d9fb31f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 03b237d4c3d129540818beb1e62c8463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 193ebd2b6822ed9418b5a78852a233a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: 914607626f30317469720962b06ac672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 81d008fdbfda7d8469d188417795b0aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 05d6935f7b6ef27488cca68c6fb52011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: a50f5b37e1b818548b0ea9203c9018dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 567
+    second: {fileID: 2100000, guid: 771b77677f905d247a693718dbb963b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arch_Glass
+    second: {fileID: 2100000, guid: 518c28e1a19be1e419d70eb90e0f09c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels_45_039_1
+    second: {fileID: 2100000, guid: b2ad5fdd0eb36e14f876ad6f20dc59c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpaint Red 2
+    second: {fileID: 2100000, guid: 5ef1a29a13ad7a440834356fa7b16fe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Brushed
+    second: {fileID: 2100000, guid: 9fffe3aa40db2364d89d12bebd9067c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Brushed3
+    second: {fileID: 2100000, guid: a41af5b6a97924041b9cba07df9c00e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Material #2917\u0443"
+    second: {fileID: 2100000, guid: 3bf91f13eadca3146adc44a6d6829ded, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3258'
+    second: {fileID: 2100000, guid: a4f9a346001f4d4409ae11dfd5153b1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3989'
+    second: {fileID: 2100000, guid: 8e8e9f0dbb8ee34448bad5c6e293dfd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 8de4d666b6b1b334db5f8da339718025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Antika_makassar
+    second: {fileID: 2100000, guid: 7ce5fe2cfa2264a4ab46d6ef64a429d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: anodised aluminium
+    second: {fileID: 2100000, guid: beff2d733fc5a5949b482fb6630134ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arch48_001_metal_01
+    second: {fileID: 2100000, guid: acac10af0b7a2ec49b4577a1a79cfbdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arch48_004_glass_01
+    second: {fileID: 2100000, guid: c7270dd2769fd524cb18e213ca95216a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arch48_004_plastic_02
+    second: {fileID: 2100000, guid: 9d0c278c89c89a243902516b71e807e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arch48_004_plastic_02ee
+    second: {fileID: 2100000, guid: 548abda998026d649a8d0703ced4e1d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arch48_004_plastic_03
+    second: {fileID: 2100000, guid: d270b15d006bd934bb7dc5bcfca7cae8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: timber floor
+    second: {fileID: 2100000, guid: fccedb6f92a904040ad6c95ab69df546, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: eee5ca75838b55742a832b7a67f5a25c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 112_old wood boards texture-seamless
+    second: {fileID: 2800000, guid: fe7ae8eb9326d644b82631b45577a2fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 117_old wood boards texture-seamless
+    second: {fileID: 2800000, guid: 4912fb21996764b4da4d100dccbe7109, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 30_plywood texture-seamless
+    second: {fileID: 2800000, guid: c939befe8d507464aa7ac430d20f512f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 49_wood shingle roof texture seamless
+    second: {fileID: 2800000, guid: 61a6ecc53509e0e499b7365dad0bca9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM85_028_color
+    second: {fileID: 2800000, guid: 89c1159a6d40f3c4ea478531d875c972, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: banana-leaf-500x500
+    second: {fileID: 2800000, guid: 09d034caae7a41b4b85a55581b71d96c, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

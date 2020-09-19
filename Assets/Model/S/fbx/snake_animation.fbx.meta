@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 0125a334d36398e4bae253194c6516ed
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AN_NPC_MOB_SnakeA_A01_SK_ERC
+    100002: BN_-Neck_01
+    100004: BN_-Pelvis_01
+    100006: BN_Head_01
+    100008: BN_Mouth_01
+    100010: BN_Spine_01
+    100012: BN_Spine_02
+    100014: BN_Spine_03
+    100016: BN_Spine_04
+    100018: BN_Spine_05
+    100020: BN_Spine_06
+    100022: BN_Tail_01
+    100024: BN_Tail_02
+    100026: BN_Tail_03
+    100028: BN_Tail_04
+    100030: BN_Tail_05
+    100032: BN_Tail_06
+    100034: BN_Tail_07
+    100036: BN_Tail_08
+    100038: BN_Tail_09
+    100040: BN_Tongue_01
+    100042: BN_Tongue_02
+    100044: BN_Tongue_03
+    100046: dead_tree:Dead_Tre
+    100048: group
+    100050: group1
+    100052: polySurface1
+    100054: polySurface10
+    100056: polySurface2
+    100058: polySurface3
+    100060: polySurface4
+    100062: polySurface5
+    100064: polySurface6
+    100066: polySurface7
+    100068: polySurface8
+    100070: polySurface9
+    100072: Sky001
+    100074: //RootNode
+    100076: transform1
+    100078: transform10
+    100080: transform2
+    100082: transform3
+    100084: transform4
+    100086: transform5
+    100088: transform6
+    100090: transform7
+    100092: transform8
+    100094: transform9
+    400000: AN_NPC_MOB_SnakeA_A01_SK_ERC
+    400002: BN_-Neck_01
+    400004: BN_-Pelvis_01
+    400006: BN_Head_01
+    400008: BN_Mouth_01
+    400010: BN_Spine_01
+    400012: BN_Spine_02
+    400014: BN_Spine_03
+    400016: BN_Spine_04
+    400018: BN_Spine_05
+    400020: BN_Spine_06
+    400022: BN_Tail_01
+    400024: BN_Tail_02
+    400026: BN_Tail_03
+    400028: BN_Tail_04
+    400030: BN_Tail_05
+    400032: BN_Tail_06
+    400034: BN_Tail_07
+    400036: BN_Tail_08
+    400038: BN_Tail_09
+    400040: BN_Tongue_01
+    400042: BN_Tongue_02
+    400044: BN_Tongue_03
+    400046: dead_tree:Dead_Tre
+    400048: group
+    400050: group1
+    400052: polySurface1
+    400054: polySurface10
+    400056: polySurface2
+    400058: polySurface3
+    400060: polySurface4
+    400062: polySurface5
+    400064: polySurface6
+    400066: polySurface7
+    400068: polySurface8
+    400070: polySurface9
+    400072: Sky001
+    400074: //RootNode
+    400076: transform1
+    400078: transform10
+    400080: transform2
+    400082: transform3
+    400084: transform4
+    400086: transform5
+    400088: transform6
+    400090: transform7
+    400092: transform8
+    400094: transform9
+    2100000: CH_NPC_MOB_SnakeA_A01_MI_ERC
+    2100002: dead_tree_Bark_De1
+    2300000: polySurface10
+    3300000: polySurface10
+    4300000: AN_NPC_MOB_SnakeA_A01_SK_ERC
+    4300002: polySurface10
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Sky001
+    13700000: AN_NPC_MOB_SnakeA_A01_SK_ERC
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CH_NPC_MOB_SnakeA_A01_MI_ERC
+    second: {fileID: 2100000, guid: bf6c57264ffabc542809d66c6c1a5bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dead_tree_Bark_De1
+    second: {fileID: 2100000, guid: f420f8459dad03c4081133f77dcd22e1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

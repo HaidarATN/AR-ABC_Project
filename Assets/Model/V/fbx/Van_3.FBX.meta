@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: b3a6ec57a29a31d4b8f4114dc55aeb3c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box233
+    100002: Circle001
+    100004: Home_1
+    100006: van
+    100008: //RootNode
+    400000: Box233
+    400002: Circle001
+    400004: Home_1
+    400006: van
+    400008: //RootNode
+    2100000: 04 - Default
+    2100002: S Boya
+    2100004: Black
+    2100006: Chrome
+    2100008: 10 - Default
+    2100010: 13 - Default
+    2100012: Zemin
+    2100014: Lights
+    2100016: 'Material #326'
+    2100018: Gray
+    2100020: mirror
+    2100022: red
+    2100024: Signal
+    2100026: Stop
+    2100028: Rims
+    2100030: Rims Gray
+    2100032: Tires
+    2100034: house_colour
+    2100036: Door
+    2100038: window_glass
+    2100040: 02 - Default
+    2100042: 'Material #1000'
+    2100044: doorwood
+    2100046: 07 - Default
+    2100048: comp_white
+    2300000: Box233
+    2300002: Circle001
+    2300004: Home_1
+    2300006: van
+    3300000: Box233
+    3300002: Circle001
+    3300004: Home_1
+    3300006: van
+    4300000: Circle001
+    4300002: van
+    4300004: Home_1
+    4300006: Box233
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: d8ef34cde1f8c544284c5054ab1973ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 60d13a45681ac454abbb0b125ded2ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: d1957bc2568a2de469e528c4b2b82ea8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: 242f9e3eefed0034396c9dedd809cf91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: be0dc196adbb60e44b1c49da0ed024d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 61206f5b576f864489e99b63752b4ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 6b4b1355cf887aa478cabc063fe1c564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: f30d36f512e613647b3d43d694b3804e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gray
+    second: {fileID: 2100000, guid: 001fa2af80a7837439e2188021c58dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights
+    second: {fileID: 2100000, guid: ce70bb20d431c57419e67e684419f96b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1000'
+    second: {fileID: 2100000, guid: b3f87bea5dff45d4bba08e5bcb401e38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #326'
+    second: {fileID: 2100000, guid: 7f069b126ece76941bef52198c6bd024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rims
+    second: {fileID: 2100000, guid: 4dadbf37a1a15174e9a39262094917c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rims Gray
+    second: {fileID: 2100000, guid: 52bd30ee47bb73f47a8f29b022b1fc2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S Boya
+    second: {fileID: 2100000, guid: 974b7e4dffaec86468798d0d3649ac13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Signal
+    second: {fileID: 2100000, guid: 947ddc1a2f4305d4aa579b56a6d603fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stop
+    second: {fileID: 2100000, guid: e2225c614d8f1654b9ee910e77065e5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tires
+    second: {fileID: 2100000, guid: c83aa6509f14f2740a2c2fbf6a8f4cc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zemin
+    second: {fileID: 2100000, guid: 5fcf4c1806d8f674f8c54587e998a2c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: comp_white
+    second: {fileID: 2100000, guid: 1570a532c27c0ad4daf427ffc75af6a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doorwood
+    second: {fileID: 2100000, guid: b4f49ece824324b43b85960d295bb5bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house_colour
+    second: {fileID: 2100000, guid: a7b2d0904882a26459b4ad893a3975d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: 167675aae65b5304d9e78775c694218e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red
+    second: {fileID: 2100000, guid: c29e78114d9cc094cbb91b3c808bd274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glass
+    second: {fileID: 2100000, guid: b179f38287a86154681c885ff5552737, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 30_plywood texture-seamless
+    second: {fileID: 2800000, guid: f4c00a9f9bd75fd4dbda62ffb1f3aa21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 49_wood shingle roof texture seamless
+    second: {fileID: 2800000, guid: add5d7de56c367145a7d7eec72500005, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 81_concrete bare rough wall texture-seamless
+    second: {fileID: 2800000, guid: 7c27893b07f0982478b8cefb9dcef663, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 95_paving flagstone texture-seamless
+    second: {fileID: 2800000, guid: 9cc453356adea844882e6d65b97cda54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 95_paving flagstone texture-seamless.jpg (1)
+    second: {fileID: 2800000, guid: b8fa2458fddca174f8831c8c16380803, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 95_paving flagstone texture-seamless.jpg (2)
+    second: {fileID: 2800000, guid: c2616e3bf44f92a4482eca079b4a9806, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 95_paving flagstone texture-seamless.jpg (3)
+    second: {fileID: 2800000, guid: 327cc48f1abc34b4f8e086ac2cc42972, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bitmap2Material_3_Base_Color
+    second: {fileID: 2800000, guid: f80f5f9cb69e1284f912902f84501385, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Signal UWText
+    second: {fileID: 2800000, guid: 013fae02a21fc9c4398f1d0e0d35656e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stop Texture
+    second: {fileID: 2800000, guid: 5bff36bff369c204daf0f2314ba2b035, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: UWs
+    second: {fileID: 2800000, guid: f71ae5fc9b86d154e96dc1a0c7625db6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: a42bb0327863d035678600f6ba5a7ace
+    second: {fileID: 2800000, guid: 4fc99a531f032cf459be93476053c2df, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

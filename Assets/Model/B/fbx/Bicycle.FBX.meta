@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 448829fe0acfc4c42b44e563892eae10
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bicycle001
+    100004: Box309
+    100006: Box314
+    100008: Box318
+    100010: Box321
+    100012: Line001
+    100014: Line002
+    100016: Line003
+    100018: Line004
+    100020: Line005
+    100022: Object001
+    100024: Plane138
+    100026: Plane139
+    100028: Plane140
+    100030: Plane141
+    100032: Plane142
+    100034: Plane143
+    100036: Plane144
+    100038: Plane145
+    100040: Plane146
+    100042: Plane147
+    100044: Plane148
+    100046: Plane149
+    100048: plant
+    100050: plant001
+    100052: plant002
+    100054: plant003
+    100056: plant004
+    100058: plant005
+    400000: //RootNode
+    400002: bicycle001
+    400004: Box309
+    400006: Box314
+    400008: Box318
+    400010: Box321
+    400012: Line001
+    400014: Line002
+    400016: Line003
+    400018: Line004
+    400020: Line005
+    400022: Object001
+    400024: Plane138
+    400026: Plane139
+    400028: Plane140
+    400030: Plane141
+    400032: Plane142
+    400034: Plane143
+    400036: Plane144
+    400038: Plane145
+    400040: Plane146
+    400042: Plane147
+    400044: Plane148
+    400046: Plane149
+    400048: plant
+    400050: plant001
+    400052: plant002
+    400054: plant003
+    400056: plant004
+    400058: plant005
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2100004: 03 - Defaultdf
+    2100006: 15 - Glossy Plastic
+    2100008: Ceramic
+    2100010: 07 - Default
+    2100012: 06 - Default
+    2100014: 04 - Default
+    2100016: 'Material #9'
+    2300000: bicycle001
+    2300002: Box309
+    2300004: Box314
+    2300006: Box318
+    2300008: Box321
+    2300010: Line001
+    2300012: Line002
+    2300014: Line003
+    2300016: Line004
+    2300018: Line005
+    2300020: Object001
+    2300022: Plane138
+    2300024: Plane139
+    2300026: Plane140
+    2300028: Plane141
+    2300030: Plane142
+    2300032: Plane143
+    2300034: Plane144
+    2300036: Plane145
+    2300038: Plane146
+    2300040: Plane147
+    2300042: Plane148
+    2300044: Plane149
+    2300046: plant
+    2300048: plant001
+    2300050: plant002
+    2300052: plant003
+    2300054: plant004
+    2300056: plant005
+    3300000: bicycle001
+    3300002: Box309
+    3300004: Box314
+    3300006: Box318
+    3300008: Box321
+    3300010: Line001
+    3300012: Line002
+    3300014: Line003
+    3300016: Line004
+    3300018: Line005
+    3300020: Object001
+    3300022: Plane138
+    3300024: Plane139
+    3300026: Plane140
+    3300028: Plane141
+    3300030: Plane142
+    3300032: Plane143
+    3300034: Plane144
+    3300036: Plane145
+    3300038: Plane146
+    3300040: Plane147
+    3300042: Plane148
+    3300044: Plane149
+    3300046: plant
+    3300048: plant001
+    3300050: plant002
+    3300052: plant003
+    3300054: plant004
+    3300056: plant005
+    4300000: bicycle001
+    4300002: Object001
+    4300004: Line001
+    4300006: Box309
+    4300008: Box314
+    4300010: Box318
+    4300012: Box321
+    4300014: Line002
+    4300016: Line003
+    4300018: Line004
+    4300020: Line005
+    4300022: plant
+    4300024: plant001
+    4300026: plant002
+    4300028: plant003
+    4300030: plant004
+    4300032: plant005
+    4300034: Plane138
+    4300036: Plane139
+    4300038: Plane140
+    4300040: Plane141
+    4300042: Plane142
+    4300044: Plane143
+    4300046: Plane144
+    4300048: Plane145
+    4300050: Plane146
+    4300052: Plane147
+    4300054: Plane148
+    4300056: Plane149
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 240a5fca9fa3aaf4c91b8376be514f56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 99f29942c4f401440be399f60c5011bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Defaultdf
+    second: {fileID: 2100000, guid: d86e7758f0a709d4d86fcb02fcea8a82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 41682303adacff147bb98cb86144912a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: 2c57f945d403d8540805357c8fe52260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: ed3c620f552ae44499b3e506ef6d31da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Glossy Plastic
+    second: {fileID: 2100000, guid: 71074d9fe127db644b15699fb20a2b63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramic
+    second: {fileID: 2100000, guid: a99b95f1fdaba6a4a9cfe4cacd7b754e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9'
+    second: {fileID: 2100000, guid: 724cf6839f54b344b9dd7ee60d0bd6a7, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: 8847ccf4258283343ba814e3e02e1417, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 30_plywood texture-seamless
+    second: {fileID: 2800000, guid: 09a91b74d5121ee42a0fd06cafc899fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fern Leaf
+    second: {fileID: 2800000, guid: b19633973ecfb03428805935316971eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fern Leaf opacity
+    second: {fileID: 2800000, guid: 665ecf1bada2725418450b514ff44b11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Optimized-IMG_2094
+    second: {fileID: 2800000, guid: 1738b9c32cf062344a97b7b22961d6df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texture_Image_210
+    second: {fileID: 2800000, guid: 2a62124ab51656146aee35683e9f78c8, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

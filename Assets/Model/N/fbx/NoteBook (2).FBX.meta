@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 067ec5084bc244943b79e9ca4f81471a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Group001
+    100002: Group002
+    100004: Line001
+    100006: Models
+    100008: //RootNode
+    100010: Plane001
+    100012: Plane002
+    100014: Plane003
+    100016: Plane004
+    100018: Plane005
+    100020: Plane006
+    100022: Plane007
+    100024: Plane008
+    100026: Plane009
+    100028: Sphere003
+    100030: Sphere004
+    100032: Sphere005
+    100034: Sphere006
+    100036: Spring001
+    400000: Group001
+    400002: Group002
+    400004: Line001
+    400006: Models
+    400008: //RootNode
+    400010: Plane001
+    400012: Plane002
+    400014: Plane003
+    400016: Plane004
+    400018: Plane005
+    400020: Plane006
+    400022: Plane007
+    400024: Plane008
+    400026: Plane009
+    400028: Sphere003
+    400030: Sphere004
+    400032: Sphere005
+    400034: Sphere006
+    400036: Spring001
+    2100000: 01 - Default
+    2100002: 03 - Default
+    2100004: 02 - Default
+    2100006: No Name
+    2100008: 'Material #0'
+    2100010: 'Material #1'
+    2100012: left page
+    2100014: 'Material #22'
+    2100016: 09 - Default
+    2300000: Line001
+    2300002: Plane001
+    2300004: Plane002
+    2300006: Plane003
+    2300008: Plane004
+    2300010: Plane005
+    2300012: Plane006
+    2300014: Plane007
+    2300016: Plane008
+    2300018: Plane009
+    2300020: Sphere003
+    2300022: Sphere004
+    2300024: Sphere005
+    2300026: Sphere006
+    2300028: Spring001
+    3300000: Line001
+    3300002: Plane001
+    3300004: Plane002
+    3300006: Plane003
+    3300008: Plane004
+    3300010: Plane005
+    3300012: Plane006
+    3300014: Plane007
+    3300016: Plane008
+    3300018: Plane009
+    3300020: Sphere003
+    3300022: Sphere004
+    3300024: Sphere005
+    3300026: Sphere006
+    3300028: Spring001
+    4300000: Plane001
+    4300002: Plane007
+    4300004: Plane002
+    4300006: Plane003
+    4300008: Plane004
+    4300010: Plane005
+    4300012: Plane006
+    4300014: Plane008
+    4300016: Line001
+    4300018: Sphere004
+    4300020: Sphere003
+    4300022: Sphere005
+    4300024: Sphere006
+    4300026: Plane009
+    4300028: Spring001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: b7bb335749f6c0344b847027f3a05b18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 655caac0e32673d42a0a5755e6b3a2ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 191e3db34ad787c4686f07546105c327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 8cb509229d1832c43a0bc4df40210155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #0'
+    second: {fileID: 2100000, guid: e7953a19facb60b4ca54fe0b06676b2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1'
+    second: {fileID: 2100000, guid: 23d6720d26ca3d24d88381f7ec66988c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #22'
+    second: {fileID: 2100000, guid: 10aa7165f1754a544b9c76840dc90ece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b4ea8de312e7de34e87e1bbbdbd5cba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: left page
+    second: {fileID: 2100000, guid: bbdd1d2290e015145a60b9248470f175, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cute-And-Sweet-Butterfly-Personalized-Notebook-For-Kids-SP127__65856.1524002501.1280.1280
+    second: {fileID: 2800000, guid: 67f00d0e582c76042ae370a4bdede578, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blue-cartoon-eye-260nw-96189824
+    second: {fileID: 2800000, guid: 534ee2cdfcca4aa4480bb70a9f0963e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: depositphotos_115121054-stock-illustration-smile-cartoon-icon-mouth-design
+    second: {fileID: 2800000, guid: 2db6ee25d97dd0845ac911d93806864c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: text_1
+    second: {fileID: 2800000, guid: 985f8d2176bc27f48bb452f593e56b42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: text_2
+    second: {fileID: 2800000, guid: 64b0160fca47b424b8dd6c5ebed89122, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: text_3
+    second: {fileID: 2800000, guid: 0ab16be6caf63114d8609364ddf0c99d, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

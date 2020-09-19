@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 40e68d4af3a14ea4ea1c5147265a91d1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: base_stand
+    100002: Box008
+    100004: christmas tree
+    100006: green balls and ribbons
+    100008: leaves
+    100010: Light
+    100012: Line002
+    100014: Omni001
+    100016: Omni002
+    100018: Omni003
+    100020: Omni004
+    100022: Omni005
+    100024: Omni006
+    100026: Omni007
+    100028: Omni008
+    100030: Omni009
+    100032: Omni010
+    100034: Omni011
+    100036: Omni012
+    100038: Omni013
+    100040: Omni014
+    100042: Omni015
+    100044: Omni016
+    100046: Omni017
+    100048: Omni018
+    100050: Omni019
+    100052: Omni020
+    100054: Omni021
+    100056: Omni022
+    100058: Omni023
+    100060: Omni024
+    100062: Omni025
+    100064: Omni026
+    100066: Omni027
+    100068: Omni028
+    100070: Omni029
+    100072: Omni030
+    100074: Omni031
+    100076: Omni032
+    100078: Particle View 01
+    100080: Particle View 01 1
+    100082: Particle View 01 2
+    100084: Particle View 01 3
+    100086: pine4m
+    100088: pine4m001
+    100090: pine4m002
+    100092: pine4m003
+    100094: pine4m004
+    100096: pine4m005
+    100098: pine4m006
+    100100: pine4m007
+    100102: pine4mLOD003
+    100104: pine4mLOD004
+    100106: pine4mLOD005
+    100108: pine4mLOD006
+    100110: pine4mLOD007
+    100112: pine4mLOD008
+    100114: pine4mLOD009
+    100116: pine4mLOD010
+    100118: pine4mLOD2
+    100120: Plane001
+    100122: red balls
+    100124: //RootNode
+    400000: base_stand
+    400002: Box008
+    400004: christmas tree
+    400006: green balls and ribbons
+    400008: leaves
+    400010: Light
+    400012: Line002
+    400014: Omni001
+    400016: Omni002
+    400018: Omni003
+    400020: Omni004
+    400022: Omni005
+    400024: Omni006
+    400026: Omni007
+    400028: Omni008
+    400030: Omni009
+    400032: Omni010
+    400034: Omni011
+    400036: Omni012
+    400038: Omni013
+    400040: Omni014
+    400042: Omni015
+    400044: Omni016
+    400046: Omni017
+    400048: Omni018
+    400050: Omni019
+    400052: Omni020
+    400054: Omni021
+    400056: Omni022
+    400058: Omni023
+    400060: Omni024
+    400062: Omni025
+    400064: Omni026
+    400066: Omni027
+    400068: Omni028
+    400070: Omni029
+    400072: Omni030
+    400074: Omni031
+    400076: Omni032
+    400078: Particle View 01
+    400080: Particle View 01 1
+    400082: Particle View 01 2
+    400084: Particle View 01 3
+    400086: pine4m
+    400088: pine4m001
+    400090: pine4m002
+    400092: pine4m003
+    400094: pine4m004
+    400096: pine4m005
+    400098: pine4m006
+    400100: pine4m007
+    400102: pine4mLOD003
+    400104: pine4mLOD004
+    400106: pine4mLOD005
+    400108: pine4mLOD006
+    400110: pine4mLOD007
+    400112: pine4mLOD008
+    400114: pine4mLOD009
+    400116: pine4mLOD010
+    400118: pine4mLOD2
+    400120: Plane001
+    400122: red balls
+    400124: //RootNode
+    2100000: redballs
+    2100002: 'Material #20454'
+    2100004: 'Material #20453'
+    2100006: leaves
+    2100008: base_stand
+    2100010: 21 - Default
+    2100012: 'Material #20446'
+    2100014: 'Material #20448'
+    2100016: Glass Solid
+    2100018: 22 - Default
+    2100020: light_1
+    2100022: light_2
+    2100024: pine-leaf
+    2100026: pine-branch
+    2100028: pine-trunk
+    2300000: base_stand
+    2300002: Box008
+    2300004: green balls and ribbons
+    2300006: leaves
+    2300008: Light
+    2300010: Line002
+    2300012: pine4m
+    2300014: pine4m001
+    2300016: pine4m002
+    2300018: pine4m003
+    2300020: pine4m004
+    2300022: pine4m005
+    2300024: pine4m006
+    2300026: pine4m007
+    2300028: pine4mLOD003
+    2300030: pine4mLOD004
+    2300032: pine4mLOD005
+    2300034: pine4mLOD006
+    2300036: pine4mLOD007
+    2300038: pine4mLOD008
+    2300040: pine4mLOD009
+    2300042: pine4mLOD010
+    2300044: pine4mLOD2
+    2300046: Plane001
+    2300048: red balls
+    3300000: base_stand
+    3300002: Box008
+    3300004: green balls and ribbons
+    3300006: leaves
+    3300008: Light
+    3300010: Line002
+    3300012: pine4m
+    3300014: pine4m001
+    3300016: pine4m002
+    3300018: pine4m003
+    3300020: pine4m004
+    3300022: pine4m005
+    3300024: pine4m006
+    3300026: pine4m007
+    3300028: pine4mLOD003
+    3300030: pine4mLOD004
+    3300032: pine4mLOD005
+    3300034: pine4mLOD006
+    3300036: pine4mLOD007
+    3300038: pine4mLOD008
+    3300040: pine4mLOD009
+    3300042: pine4mLOD010
+    3300044: pine4mLOD2
+    3300046: Plane001
+    3300048: red balls
+    4300000: red balls
+    4300002: green balls and ribbons
+    4300004: leaves
+    4300006: base_stand
+    4300008: Plane001
+    4300010: Line002
+    4300012: Box008
+    4300014: Light
+    4300016: pine4m
+    4300018: pine4mLOD2
+    4300020: pine4m001
+    4300022: pine4mLOD003
+    4300024: pine4mLOD004
+    4300026: pine4m002
+    4300028: pine4mLOD005
+    4300030: pine4mLOD006
+    4300032: pine4m003
+    4300034: pine4mLOD007
+    4300036: pine4mLOD008
+    4300038: pine4m004
+    4300040: pine4m005
+    4300042: pine4mLOD009
+    4300044: pine4mLOD010
+    4300046: pine4m006
+    4300048: pine4m007
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Omni001
+    10800002: Omni002
+    10800004: Omni003
+    10800006: Omni004
+    10800008: Omni005
+    10800010: Omni006
+    10800012: Omni007
+    10800014: Omni008
+    10800016: Omni009
+    10800018: Omni010
+    10800020: Omni011
+    10800022: Omni012
+    10800024: Omni013
+    10800026: Omni014
+    10800028: Omni015
+    10800030: Omni016
+    10800032: Omni017
+    10800034: Omni018
+    10800036: Omni019
+    10800038: Omni020
+    10800040: Omni021
+    10800042: Omni022
+    10800044: Omni023
+    10800046: Omni024
+    10800048: Omni025
+    10800050: Omni026
+    10800052: Omni027
+    10800054: Omni028
+    10800056: Omni029
+    10800058: Omni030
+    10800060: Omni031
+    10800062: Omni032
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 5be3521d056efca4b99857c179fb2608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Default
+    second: {fileID: 2100000, guid: de9202b3ad0dafa42931f7cac317446a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Solid
+    second: {fileID: 2100000, guid: 551ab2daf768f7a4f85590259002a2f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #20446'
+    second: {fileID: 2100000, guid: 0560e492124b02646897ab2d7137867c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #20448'
+    second: {fileID: 2100000, guid: 8df3d902ca0e12141b2c965ffa02aef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #20453'
+    second: {fileID: 2100000, guid: 6c570b7545d1d304eb0fc4f492afffc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #20454'
+    second: {fileID: 2100000, guid: d3e310e10ec1012408c7d862a5b09aa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base_stand
+    second: {fileID: 2100000, guid: e2901cd236862ad4497fed9fe5d33951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaves
+    second: {fileID: 2100000, guid: 93880eaf82a12b347989ac100e892c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_1
+    second: {fileID: 2100000, guid: 7ad5182c3625ca6439e9d9eb407f7e7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_2
+    second: {fileID: 2100000, guid: ecc41a50aa7a3934f84c36df2f188b08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pine-branch
+    second: {fileID: 2100000, guid: 588d879fd5ce59a4ba221de4062d5426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pine-leaf
+    second: {fileID: 2100000, guid: 345b1789f9add744ab6b79633c990572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pine-trunk
+    second: {fileID: 2100000, guid: 017256513b0012143a4e6784f7120146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redballs
+    second: {fileID: 2100000, guid: 70a4e5dbaf9c6f44b8553aaca1976e08, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 30_plywood texture-seamless
+    second: {fileID: 2800000, guid: 4835790e1018c5b4785585ba2059c83d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Ice0044_1_seamless_S
+    second: {fileID: 2800000, guid: 799c2b83b238443409e0703943c99b1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pine-branch-diff
+    second: {fileID: 2800000, guid: efeaa241ddcd66a45b61fe7dc8d5eae9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pine-leaf-diff
+    second: {fileID: 2800000, guid: 5cef29fe376c9104db8a6bd42c9d827d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pine-trunk-diff
+    second: {fileID: 2800000, guid: 018bc22778142404dbf0a974a5c3317d, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

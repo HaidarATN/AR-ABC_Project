@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 584d9ca9d1ba18546a10c6532400eeae
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: base_stand
+    100002: Box008
+    100004: christmas tree
+    100006: //RootNode
+    100008: green balls and ribbons
+    100010: group1
+    100012: group2
+    100014: leaves
+    100016: Light
+    100018: Line002
+    100020: Particle View 01
+    100022: Particle View 01 1
+    100024: Particle View 01 2
+    100026: Particle View 01 3
+    100028: pine4m
+    100030: pine4m001
+    100032: pine4m002
+    100034: pine4m003
+    100036: pine4m004
+    100038: pine4m005
+    100040: pine4m006
+    100042: pine4m007
+    100044: pine4mLOD003
+    100046: pine4mLOD004
+    100048: pine4mLOD005
+    100050: pine4mLOD006
+    100052: pine4mLOD007
+    100054: pine4mLOD008
+    100056: pine4mLOD009
+    100058: pine4mLOD010
+    100060: pine4mLOD1
+    100062: pine4mLOD2
+    100064: polySurface1
+    100066: polySurface10
+    100068: polySurface11
+    100070: polySurface12
+    100072: polySurface13
+    100074: polySurface14
+    100076: polySurface15
+    100078: polySurface16
+    100080: polySurface17
+    100082: polySurface18
+    100084: polySurface19
+    100086: polySurface2
+    100088: polySurface20
+    100090: polySurface21
+    100092: polySurface22
+    100094: polySurface23
+    100096: polySurface24
+    100098: polySurface25
+    100100: polySurface26
+    100102: polySurface27
+    100104: polySurface28
+    100106: polySurface29
+    100108: polySurface3
+    100110: polySurface30
+    100112: polySurface31
+    100114: polySurface32
+    100116: polySurface33
+    100118: polySurface34
+    100120: polySurface35
+    100122: polySurface36
+    100124: polySurface37
+    100126: polySurface38
+    100128: polySurface39
+    100130: polySurface4
+    100132: polySurface40
+    100134: polySurface41
+    100136: polySurface42
+    100138: polySurface43
+    100140: polySurface44
+    100142: polySurface45
+    100144: polySurface46
+    100146: polySurface5
+    100148: polySurface6
+    100150: polySurface7
+    100152: polySurface8
+    100154: polySurface9
+    100156: red balls
+    100158: transform1
+    100160: transform10
+    100162: transform11
+    100164: transform12
+    100166: transform13
+    100168: transform14
+    100170: transform15
+    100172: transform16
+    100174: transform17
+    100176: transform18
+    100178: transform19
+    100180: transform2
+    100182: transform20
+    100184: transform21
+    100186: transform22
+    100188: transform23
+    100190: transform24
+    100192: transform25
+    100194: transform26
+    100196: transform27
+    100198: transform28
+    100200: transform29
+    100202: transform3
+    100204: transform30
+    100206: transform31
+    100208: transform32
+    100210: transform33
+    100212: transform34
+    100214: transform35
+    100216: transform36
+    100218: transform37
+    100220: transform38
+    100222: transform39
+    100224: transform4
+    100226: transform40
+    100228: transform41
+    100230: transform42
+    100232: transform43
+    100234: transform44
+    100236: transform45
+    100238: transform5
+    100240: transform6
+    100242: transform7
+    100244: transform8
+    100246: transform9
+    400000: base_stand
+    400002: Box008
+    400004: christmas tree
+    400006: //RootNode
+    400008: green balls and ribbons
+    400010: group1
+    400012: group2
+    400014: leaves
+    400016: Light
+    400018: Line002
+    400020: Particle View 01
+    400022: Particle View 01 1
+    400024: Particle View 01 2
+    400026: Particle View 01 3
+    400028: pine4m
+    400030: pine4m001
+    400032: pine4m002
+    400034: pine4m003
+    400036: pine4m004
+    400038: pine4m005
+    400040: pine4m006
+    400042: pine4m007
+    400044: pine4mLOD003
+    400046: pine4mLOD004
+    400048: pine4mLOD005
+    400050: pine4mLOD006
+    400052: pine4mLOD007
+    400054: pine4mLOD008
+    400056: pine4mLOD009
+    400058: pine4mLOD010
+    400060: pine4mLOD1
+    400062: pine4mLOD2
+    400064: polySurface1
+    400066: polySurface10
+    400068: polySurface11
+    400070: polySurface12
+    400072: polySurface13
+    400074: polySurface14
+    400076: polySurface15
+    400078: polySurface16
+    400080: polySurface17
+    400082: polySurface18
+    400084: polySurface19
+    400086: polySurface2
+    400088: polySurface20
+    400090: polySurface21
+    400092: polySurface22
+    400094: polySurface23
+    400096: polySurface24
+    400098: polySurface25
+    400100: polySurface26
+    400102: polySurface27
+    400104: polySurface28
+    400106: polySurface29
+    400108: polySurface3
+    400110: polySurface30
+    400112: polySurface31
+    400114: polySurface32
+    400116: polySurface33
+    400118: polySurface34
+    400120: polySurface35
+    400122: polySurface36
+    400124: polySurface37
+    400126: polySurface38
+    400128: polySurface39
+    400130: polySurface4
+    400132: polySurface40
+    400134: polySurface41
+    400136: polySurface42
+    400138: polySurface43
+    400140: polySurface44
+    400142: polySurface45
+    400144: polySurface46
+    400146: polySurface5
+    400148: polySurface6
+    400150: polySurface7
+    400152: polySurface8
+    400154: polySurface9
+    400156: red balls
+    400158: transform1
+    400160: transform10
+    400162: transform11
+    400164: transform12
+    400166: transform13
+    400168: transform14
+    400170: transform15
+    400172: transform16
+    400174: transform17
+    400176: transform18
+    400178: transform19
+    400180: transform2
+    400182: transform20
+    400184: transform21
+    400186: transform22
+    400188: transform23
+    400190: transform24
+    400192: transform25
+    400194: transform26
+    400196: transform27
+    400198: transform28
+    400200: transform29
+    400202: transform3
+    400204: transform30
+    400206: transform31
+    400208: transform32
+    400210: transform33
+    400212: transform34
+    400214: transform35
+    400216: transform36
+    400218: transform37
+    400220: transform38
+    400222: transform39
+    400224: transform4
+    400226: transform40
+    400228: transform41
+    400230: transform42
+    400232: transform43
+    400234: transform44
+    400236: transform45
+    400238: transform5
+    400240: transform6
+    400242: transform7
+    400244: transform8
+    400246: transform9
+    2100000: 'Material #20446'
+    2100002: 'Material #20448'
+    2100004: 21 - Default
+    2100006: phong3
+    2100008: 22 - Default
+    2100010: pine-leaf
+    2100012: pine-branch
+    2100014: pine-trunk
+    2100016: redballs
+    2100018: leaves1
+    2100020: phong1
+    2100022: phong2
+    2100024: base_stand1
+    2100026: light_1
+    2100028: light_2
+    2300000: base_stand
+    2300002: Box008
+    2300004: green balls and ribbons
+    2300006: leaves
+    2300008: Line002
+    2300010: pine4m
+    2300012: pine4m001
+    2300014: pine4m002
+    2300016: pine4m003
+    2300018: pine4m004
+    2300020: pine4m005
+    2300022: pine4m006
+    2300024: pine4m007
+    2300026: pine4mLOD003
+    2300028: pine4mLOD004
+    2300030: pine4mLOD005
+    2300032: pine4mLOD006
+    2300034: pine4mLOD007
+    2300036: pine4mLOD008
+    2300038: pine4mLOD009
+    2300040: pine4mLOD010
+    2300042: pine4mLOD1
+    2300044: pine4mLOD2
+    2300046: polySurface45
+    2300048: polySurface46
+    2300050: red balls
+    3300000: base_stand
+    3300002: Box008
+    3300004: green balls and ribbons
+    3300006: leaves
+    3300008: Line002
+    3300010: pine4m
+    3300012: pine4m001
+    3300014: pine4m002
+    3300016: pine4m003
+    3300018: pine4m004
+    3300020: pine4m005
+    3300022: pine4m006
+    3300024: pine4m007
+    3300026: pine4mLOD003
+    3300028: pine4mLOD004
+    3300030: pine4mLOD005
+    3300032: pine4mLOD006
+    3300034: pine4mLOD007
+    3300036: pine4mLOD008
+    3300038: pine4mLOD009
+    3300040: pine4mLOD010
+    3300042: pine4mLOD1
+    3300044: pine4mLOD2
+    3300046: polySurface45
+    3300048: polySurface46
+    3300050: red balls
+    4300000: Line002
+    4300002: Box008
+    4300004: pine4m
+    4300006: pine4mLOD1
+    4300008: pine4mLOD2
+    4300010: pine4m001
+    4300012: pine4mLOD003
+    4300014: pine4mLOD004
+    4300016: pine4m002
+    4300018: pine4mLOD005
+    4300020: pine4mLOD006
+    4300022: pine4m003
+    4300024: pine4mLOD007
+    4300026: pine4mLOD008
+    4300028: pine4m004
+    4300030: pine4m005
+    4300032: pine4mLOD009
+    4300034: pine4mLOD010
+    4300036: pine4m006
+    4300038: pine4m007
+    4300040: red balls
+    4300042: leaves
+    4300044: green balls and ribbons
+    4300046: base_stand
+    4300048: polySurface45
+    4300050: polySurface46
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 8591580c48bdbad44b9592a4f3baa326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Default
+    second: {fileID: 2100000, guid: e3e7a5d2a9f471044807956c69dc99c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #20446'
+    second: {fileID: 2100000, guid: 5250104da09cc50429eef0d8fe91054c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #20448'
+    second: {fileID: 2100000, guid: 5ae8b6b502e0f5244a44206f97216d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base_stand1
+    second: {fileID: 2100000, guid: fddb7164b32057b4290508be5f7791cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaves1
+    second: {fileID: 2100000, guid: 51075645dcf99c048b542ef4301c3e91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_1
+    second: {fileID: 2100000, guid: 4172ae10615756b4d9eccb7c10c3a971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_2
+    second: {fileID: 2100000, guid: 86f6a6c4dee395d468ca43da4f034f64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: c09c35fa6dad9f142923f5b787a8e88d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: b0c3e86a2b046774a845dd41113246e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: 5d4cb8c0b1fed6a4eb6cd5793e9c1b43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pine-branch
+    second: {fileID: 2100000, guid: 74b4d8765789a8149b8a7fefbc07444f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pine-leaf
+    second: {fileID: 2100000, guid: 12a3a6de2cc4bf34980f25ee63d2ce98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pine-trunk
+    second: {fileID: 2100000, guid: 68a7da1f7f29d2e4ba50b5aa5d94f150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redballs
+    second: {fileID: 2100000, guid: 8521692df5bab71448c1a2ce59ce964c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

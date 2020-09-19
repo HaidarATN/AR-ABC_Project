@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: b5c3fb35a4b1fe742a5dccbc8b4b09ba
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Birth 001
+    100002: bogi_1
+    100004: bogi_2
+    100006: bogi_3
+    100008: bogi_4
+    100010: Delete 001
+    100012: Display 001
+    100014: Event 001
+    100016: Force 001
+    100018: Force 003
+    100020: Material Static 001
+    100022: Particle View 001
+    100024: PF Engine001
+    100026: PF smoke
+    100028: PF smoke->Event 001
+    100030: PF smoke->PF smoke
+    100032: PhysCamera001
+    100034: PhysCamera001.Target
+    100036: Position Icon 001
+    100038: rail
+    100040: Render 001
+    100042: Rotation 001
+    100044: Scale 001
+    100046: Shape 001
+    100048: Shape Facing 001
+    100050: Speed 001
+    100052: Spin 001
+    100054: //RootNode
+    100056: train
+    100058: Wind001
+    400000: Birth 001
+    400002: bogi_1
+    400004: bogi_2
+    400006: bogi_3
+    400008: bogi_4
+    400010: Delete 001
+    400012: Display 001
+    400014: Event 001
+    400016: Force 001
+    400018: Force 003
+    400020: Material Static 001
+    400022: Particle View 001
+    400024: PF Engine001
+    400026: PF smoke
+    400028: PF smoke->Event 001
+    400030: PF smoke->PF smoke
+    400032: PhysCamera001
+    400034: PhysCamera001.Target
+    400036: Position Icon 001
+    400038: rail
+    400040: Render 001
+    400042: Rotation 001
+    400044: Scale 001
+    400046: Shape 001
+    400048: Shape Facing 001
+    400050: Speed 001
+    400052: Spin 001
+    400054: //RootNode
+    400056: train
+    400058: Wind001
+    2100000: Color_003
+    2100002: Color_A08
+    2100004: Color_E04
+    2100006: 01 - Defaultdfvv
+    2100008: Color_A12
+    2100010: 'Material #0'
+    2100012: 01 - Default
+    2100014: 05 - Default
+    2100016: 06 - Default
+    2100018: Color_F14
+    2100020: Color_000
+    2100022: Translucent_Glass_Gray
+    2100024: skp_front_default
+    2100026: 24 - Default
+    2100028: 01 - Defaultdfvvv
+    2300000: bogi_1
+    2300002: bogi_2
+    2300004: bogi_3
+    2300006: bogi_4
+    2300008: rail
+    2300010: train
+    3300000: bogi_1
+    3300002: bogi_2
+    3300004: bogi_3
+    3300006: bogi_4
+    3300008: rail
+    3300010: train
+    4300000: train
+    4300002: rail
+    4300004: bogi_1
+    4300006: bogi_2
+    4300008: bogi_3
+    4300010: bogi_4
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 5bf21fad01596b64793542e7b89b39cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Defaultdfvv
+    second: {fileID: 2100000, guid: 7ad5b04c04aa67c4f9a787d1b557043a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Defaultdfvvv
+    second: {fileID: 2100000, guid: 38491cb745749ea488442636de7421b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: faf2c9c21d42c4b4a8803f6a8c71e8fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: ef5b68d3e8324304b819b20e82696a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24 - Default
+    second: {fileID: 2100000, guid: 6381b9a07bbb0c7479f6f54c97c89011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_000
+    second: {fileID: 2100000, guid: 8c8b9e5f9862a2849af744d641f383bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_003
+    second: {fileID: 2100000, guid: 073e279be6965c946abae66cb74ef92d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_A08
+    second: {fileID: 2100000, guid: 1006e8b8ddffdd24c9028d4ab37e0e80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_A12
+    second: {fileID: 2100000, guid: 66c670e6fc3bcea46bb8b5495b9b917f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_E04
+    second: {fileID: 2100000, guid: 07815e3a9e8448f41a6800f98f54c87c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_F14
+    second: {fileID: 2100000, guid: 857347c30e1120e4f89c35ef38271941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #0'
+    second: {fileID: 2100000, guid: 08511ba3e3eccd34180d8ef7eec807a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Gray
+    second: {fileID: 2100000, guid: 4b4e6851fb537e1479ee1b5381102874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skp_front_default
+    second: {fileID: 2100000, guid: 726e69d6840b49b4a87f00ca2e8f5b5a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

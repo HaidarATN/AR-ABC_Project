@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 4eede6a5072e96a46945eb3e6671cef1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Cylinder001
+    100004: Group164
+    100006: Group165
+    100008: //RootNode
+    100010: Line001
+    100012: Object001
+    100014: Object002
+    100016: Object009
+    100018: Object010
+    100020: Object011
+    100022: Object012
+    100024: Text001
+    100026: "\xEF\xE0\xF0\xEA\xE5\xF0001"
+    100028: "\u041A\u0418\u0428\u041A\u0410"
+    100030: "\u0420\u0423\u0427\u041A\u0410"
+    400000: Box001
+    400002: Cylinder001
+    400004: Group164
+    400006: Group165
+    400008: //RootNode
+    400010: Line001
+    400012: Object001
+    400014: Object002
+    400016: Object009
+    400018: Object010
+    400020: Object011
+    400022: Object012
+    400024: Text001
+    400026: "\xEF\xE0\xF0\xEA\xE5\xF0001"
+    400028: "\u041A\u0418\u0428\u041A\u0410"
+    400030: "\u0420\u0423\u0427\u041A\u0410"
+    2100000: 01 - Default
+    2100002: 04 - Default
+    2100004: 12 - Default
+    2100006: 05 - Default
+    2100008: 02 - Default
+    2100010: 09 - Default
+    2100012: 07 - Default
+    2100014: 08 - Default
+    2100016: 05 - glass
+    2300000: Box001
+    2300002: Cylinder001
+    2300004: Line001
+    2300006: Object001
+    2300008: Object002
+    2300010: Object009
+    2300012: Object010
+    2300014: Object011
+    2300016: Object012
+    2300018: Text001
+    2300020: "\xEF\xE0\xF0\xEA\xE5\xF0001"
+    2300022: "\u041A\u0418\u0428\u041A\u0410"
+    3300000: Box001
+    3300002: Cylinder001
+    3300004: Line001
+    3300006: Object001
+    3300008: Object002
+    3300010: Object009
+    3300012: Object010
+    3300014: Object011
+    3300016: Object012
+    3300018: Text001
+    3300020: "\xEF\xE0\xF0\xEA\xE5\xF0001"
+    3300022: "\u041A\u0418\u0428\u041A\u0410"
+    4300000: Box001
+    4300002: Line001
+    4300004: Cylinder001
+    4300006: Object001
+    4300008: Object002
+    4300010: "\u041A\u0418\u0428\u041A\u0410"
+    4300012: Object012
+    4300014: Object011
+    4300016: Object009
+    4300018: "\xEF\xE0\xF0\xEA\xE5\xF0001"
+    4300020: Object010
+    4300022: Text001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: ffc6ae6ffcebb0e46b24c8f9ef2a042f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 893b0b6324905c9499d29f28c9035116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 01ef180e04411694eac763978ee81879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: 645fa2824c8bf3e47b3028a8287fe21f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - glass
+    second: {fileID: 2100000, guid: c3c3667cea610b84bb52aed1a83370f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 911a36c6259429649b873a5662951cd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: c2f12e6822ce89d4992385a93eeba7a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 2fbd07ff92cab3c4b90224ef521bb022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12 - Default
+    second: {fileID: 2100000, guid: 3a99fa15ca957d544b36f650c3336411, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2705644192_7421d4a9ef_b
+    second: {fileID: 2800000, guid: bb26b0431b1f688438e91667924a98b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled-1
+    second: {fileID: 2800000, guid: db5db50591ba38843877765c9d8201bd, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Vnew" size="1280.000000 989.000000" />
+    <ImageTarget name="Unew" size="1280.000000 989.000000" />
+    <ImageTarget name="Watch_Big" size="1280.000000 905.632812" />
+    <ImageTarget name="Rabbit_Big" size="1280.000000 905.267944" />
+    <ImageTarget name="Owl_BIg" size="1280.000000 905.330322" />
+    <ImageTarget name="Jam_big" size="1280.000000 905.632812" />
+    <ImageTarget name="Frog_big" size="1280.000000 905.632812" />
+    <ImageTarget name="W_Watch_New" size="10.000000 7.075256" />
+    <ImageTarget name="R-01_New" size="10.000000 7.072406" />
+    <ImageTarget name="O_Owl_New" size="10.000000 7.072893" />
+    <ImageTarget name="J_Jam_New" size="10.000000 7.075256" />
+    <ImageTarget name="F_Frog_New" size="10.000000 7.075256" />
+    <ImageTarget name="newUmbrella" size="100.000000 70.703125" />
+    <ImageTarget name="Snake" size="1024.000000 724.000000" />
+    <ImageTarget name="Van" size="1280.000000 905.000000" />
+    <ImageTarget name="Zebra" size="1280.000000 905.000000" />
+    <ImageTarget name="Yacht" size="1280.000000 905.000000" />
+    <ImageTarget name="Xmas" size="1280.000000 905.000000" />
+    <ImageTarget name="Watch" size="1280.000000 905.000000" />
+    <ImageTarget name="Umbrella" size="1280.000000 905.000000" />
+    <ImageTarget name="Train" size="1280.000000 905.000000" />
+    <ImageTarget name="Rabbit" size="1280.000000 905.000000" />
+    <ImageTarget name="Queen" size="1280.000000 905.000000" />
+    <ImageTarget name="Piano" size="1280.000000 905.000000" />
+    <ImageTarget name="Owl" size="1280.000000 905.000000" />
+    <ImageTarget name="Notebook" size="1280.000000 905.000000" />
+    <ImageTarget name="Mouse" size="1280.000000 905.000000" />
+    <ImageTarget name="Lion" size="1280.000000 905.000000" />
+    <ImageTarget name="Kite" size="1280.000000 905.000000" />
+    <ImageTarget name="Jam" size="1280.000000 905.000000" />
+    <ImageTarget name="Ink" size="1280.000000 905.000000" />
+    <ImageTarget name="Helicopter" size="1280.000000 905.000000" />
+    <ImageTarget name="Goat" size="1280.000000 905.000000" />
+    <ImageTarget name="Frog" size="1280.000000 905.000000" />
+    <ImageTarget name="Elephant" size="1280.000000 905.000000" />
+    <ImageTarget name="Dog" size="1280.000000 905.000000" />
+    <ImageTarget name="Cat" size="1280.000000 905.000000" />
+    <ImageTarget name="Bicycle" size="1280.000000 905.000000" />
+    <ImageTarget name="Alligator" size="1280.000000 905.000000" />
+  </Tracking>
+</QCARConfig>
